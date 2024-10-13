@@ -1,4 +1,4 @@
-# Wanderlust
+# BookMyStay
 
 Wanderlust is a sophisticated web application that revolutionizes the way discerning travelers explore and book high-end vacation properties worldwide. Built with cutting-edge technologies and a user-centric approach, this platform offers an unparalleled experience for those seeking exceptional getaways.
 
